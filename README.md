@@ -1,4 +1,8 @@
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=200&section=header&text=Hello%20&fontSize=90)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+
 # qwes5674
 
 ![myprofile](https://github-readme-stats.vercel.app/api?username=qwes5674&theme=blue-green)
